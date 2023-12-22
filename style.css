@@ -1,0 +1,38 @@
+body{
+ background-color: rgb(59 70 100);
+ padding-top: 200px;
+}
+.infor{
+ 
+ width: 300px;
+ height: 200px;
+ padding: 100px;
+ margin: auto;
+ background-color:#181f32;
+ border-radius: 20px;
+}
+.calculator{
+ width: 300px;
+ padding: 10px;
+ border: none;
+ background-color: white;
+ border-radius: 10px;
+}
+.oparetor{
+ width:95px ;
+ height: 30px;
+padding: 5px 16px;
+background-color: rgb(59 70 100) ;
+color: white;
+border: none;
+margin-left: 5px;
+}
+button{
+ width:95px ;
+ height: 30px;
+padding: 5px 16px;
+background-color: rgb(59 70 100);
+border: none;
+color: white;
+
+}
